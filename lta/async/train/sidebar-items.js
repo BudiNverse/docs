@@ -1,0 +1,1 @@
+initSidebarItems({"fn":[["get_train_service_alert","Returns detailed information on train service unavailability during scheduled operating hours, such as affected line and stations etc."]]});

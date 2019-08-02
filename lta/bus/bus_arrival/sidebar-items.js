@@ -1,0 +1,1 @@
+initSidebarItems({"constant":[["URL",""]],"struct":[["ArrivalBusService",""],["BusArrivalResp",""],["NextBus","Representation is similar to the one here in order to keep it consistent with the API itself in case anyone wants to reference the original docs"]]});

@@ -1,0 +1,1 @@
+initSidebarItems({"fn":[["build_req",""],["build_res_with_query",""]],"struct":[["Coordinates",""],["Location",""]],"trait":[["Client","A `Client` to make requests with The `Client` holds a connection pool internally, so it is advised that you create one and reuse it"]],"type":[["Error",""],["Result",""]]});

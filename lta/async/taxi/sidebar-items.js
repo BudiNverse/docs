@@ -1,0 +1,1 @@
+initSidebarItems({"fn":[["get_passenger_vol_by","Returns location coordinates of all Taxis that are currently available for hire. Does not include \"Hired\" or \"Busy\" Taxis."]]});

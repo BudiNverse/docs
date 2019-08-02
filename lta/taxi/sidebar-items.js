@@ -1,0 +1,1 @@
+initSidebarItems({"fn":[["get_taxi_avail","Returns location coordinates of all Taxis that are currently available for hire. Does not include \"Hired\" or \"Busy\" Taxis."]],"mod":[["taxi_avail",""]]});
